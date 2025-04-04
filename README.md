@@ -5,7 +5,7 @@
 | Member Name   | Student ID | Contribution                                            |
 |---------------|------------|---------------------------------------------------------|
 | Jongmin Choi  | 203874794   | Server/client socket logic; connection management       |
-|  Marzia Mehr  |             |                 |
+|  Marzia Mehr  | 109951593   |   Server/client socket logic; connection management     |
 
 <br>
 
